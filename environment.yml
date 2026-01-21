@@ -5,5 +5,4 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
-  - matplotlib-base >=3.7
-  - wxdata >=1.2.3
+  - xmacis2py >=2.2
