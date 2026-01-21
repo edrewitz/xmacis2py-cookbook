@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# xmACIS2Py Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
