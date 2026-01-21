@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-GL7YE3UO.js";import"/cookbook-template/build/_shared/chunk-GALEQFJV.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/xmacis2py-cookbook/build/_shared/chunk-GL7YE3UO.js";import"/xmacis2py-cookbook/build/_shared/chunk-GALEQFJV.js";import"/xmacis2py-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();

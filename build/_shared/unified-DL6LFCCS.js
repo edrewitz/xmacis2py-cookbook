@@ -1,1 +1,1 @@
-import{b as a}from"/cookbook-template/build/_shared/chunk-7SAO57PG.js";import"/cookbook-template/build/_shared/chunk-O4VQNZ62.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export{a as unified};
+import{b as a}from"/xmacis2py-cookbook/build/_shared/chunk-7SAO57PG.js";import"/xmacis2py-cookbook/build/_shared/chunk-O4VQNZ62.js";import"/xmacis2py-cookbook/build/_shared/chunk-OZE3FFNP.js";export{a as unified};
