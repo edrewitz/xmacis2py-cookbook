@@ -1,40 +1,46 @@
-# (Replace_with_your_title) Cookbook
+# xmACIS2Py Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
+[![nightly-build](https://github.com/ProjectPythia/xmacis2py-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/xmacis2py-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/xmacis2py-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
-
-_See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
-
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This cookbook teaches users how to download and analyze xmACIS2 data in Python.
+
+xmACIS2 is a popular tool among meteorologists for analyzing weather station data and comparing this data to climate normals and/or records. 
+
+Users will develop a basic understanding of working with ACIS2 data in the form of a Pandas.DataFrame in Python.
+
+Users will also be able to learn how to use xmACIS2Py to create various types of graphical summaries of the data. 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Eric J. Drewitz](https://github.com/edrewitz)
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/xmacis2py-cookbook/graphs/contributors">
+  <img src="https://avatars.githubusercontent.com/u/101157849?v=4" width="100" height="100"/>
 </a>
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This cookbook is a combination of two example notebooks ***xmacis2py_analysis.ipynb*** and ***xmacis2py_graphics.ipynb***.
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Foundations
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+The foundational content includes the:
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+- Data Access & Analysis with xmACIS2Py
+- Graphical Summary Creation with xmACIS2Py
 
-(Add content for this section, e.g., "Example workflows include ... ")
+### Example Workflows
+
+1) Data Access & Analysis example workflows in *xmacis2py_analysis.ipynb* demonstrate how to download ACIS2 data and perform various analyses on the data.
+2) Graphical Summary Creation example workflows in *xmacis2py_graphics.ipynb* demonstrate how to create a medley of graphical summaries of the data. 
 
 ## Running the Notebooks
 
@@ -68,20 +74,20 @@ If you are interested in running this material locally on your computer, you wil
 
 (Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/xmacis2py-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/xmacis2py-cookbook.git
    ```
 
 1. Move into the `cookbook-example` directory
    ```bash
-   cd cookbook-example
+   cd xmacis2py-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate xmacis2py-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
