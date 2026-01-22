@@ -7,4 +7,10 @@
   <url>
     <loc>http://localhost:3000/notebooks/how-to-cite</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/xmacis2py-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/xmacis2py-graphics</loc>
+  </url>
 </urlset>
