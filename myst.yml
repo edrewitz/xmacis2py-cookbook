@@ -13,7 +13,7 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: xmACIS2Py Examples
+    - title: notebooks
       children:
         - file: notebooks/xmACIS2Py Examples/xmacis2py_analysis.ipynb
         - file: notebooks/xmACIS2Py Examples/xmacis2py_graphics.ipynb
