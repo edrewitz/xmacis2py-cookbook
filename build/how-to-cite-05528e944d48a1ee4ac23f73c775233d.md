@@ -4,5 +4,5 @@ The material in this Project Pythia Cookbook is licensed for free and open consu
 
 The source code for the book is [released on GitHub](https://github.com/ProjectPythia/xmacis2py-cookbook) and archived on Zenodo. This DOI will always resolve to the latest release of the book source:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18332254.svg)](https://doi.org/10.5281/zenodo.18332254)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18332254.svg)](https://doi.org/10.5281/zenodo.18332253)
 
