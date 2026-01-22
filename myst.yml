@@ -13,10 +13,10 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: notebooks
+    - title: xmACIS2Py Examples
       children:
-        - file: notebooks/xmACIS2Py Examples/xmacis2py_analysis.ipynb
-        - file: notebooks/xmACIS2Py Examples/xmacis2py_graphics.ipynb
+        - file: notebooks/xmacis2py_analysis.ipynb
+        - file: notebooks/xmacis2py_graphics.ipynb
   jupyter:
       binder:
         repo: projectpythia/xmacis2py-cookbook
