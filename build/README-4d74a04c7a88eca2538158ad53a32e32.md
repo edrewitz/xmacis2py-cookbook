@@ -87,7 +87,7 @@ If you are interested in running this material locally on your computer, you wil
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate xmacis2py-cookbook
+   conda activate xmacis2py-cookbook-dev
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
