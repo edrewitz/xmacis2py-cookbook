@@ -5,9 +5,6 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notebooks/xmacis2py-examples/xmacis2py-analysis</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/xmacis2py-examples/xmacis2py-graphics</loc>
+    <loc>http://localhost:3000/notebooks/how-to-cite</loc>
   </url>
 </urlset>
