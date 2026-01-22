@@ -4,7 +4,8 @@
 
 [![nightly-build](https://github.com/ProjectPythia/xmacis2py-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/xmacis2py-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/xmacis2py-cookbook/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18332254.svg)](https://doi.org/10.5281/zenodo.18332254)
+
 
 ## Motivation
 
